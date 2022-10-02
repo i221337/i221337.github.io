@@ -4,7 +4,7 @@
 
 a {
   color: blue;/* set the text color to blue here */
-  text-decoration: none; /* This means we do not want hyperlinks to be underlined */
+  text-decoration: blue; /* This means we do not want hyperlinks to be underlined */
 }
 
 a:hover {
